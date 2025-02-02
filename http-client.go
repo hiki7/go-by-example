@@ -7,6 +7,7 @@ import (
 )
 
 func main() {
+	//test
 	//sending http request
 	resp, err := http.Get("https://gobyexample.com")
 	//if there is an error then the program will be terminated
